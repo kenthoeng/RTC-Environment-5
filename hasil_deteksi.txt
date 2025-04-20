@@ -1,0 +1,36 @@
+Hasil Deteksi Kebakaran
+CO2: 400.0 ppm
+Suhu: 25.0 °C
+Kelembaban: 60.0 %
+Hasil: Kondisi Normal
+
+Hasil Deteksi Kebakaran
+CO2: 400.0 ppm
+Suhu: 25.0 °C
+Kelembaban: 60.0 %
+Hasil: Kondisi Normal
+
+Hasil Deteksi Kebakaran
+CO2: 400.05999999999995 ppm
+Suhu: 20.0 °C
+Kelembaban: 60.0 %
+Hasil: Kondisi Normal
+
+Hasil Deteksi Kebakaran
+CO2: 400.05999999999995 ppm
+Suhu: 20.0 °C
+Kelembaban: 51.0 %
+Hasil: Kondisi Normal
+
+Hasil Deteksi Kebakaran
+CO2: 400.05999999999995 ppm
+Suhu: 70.0 °C
+Kelembaban: 100.0 %
+Hasil: Kondisi Normal
+
+Hasil Deteksi Kebakaran
+CO2: 600.0 ppm
+Suhu: 45.0 °C
+Kelembaban: 20.0 %
+Hasil: Kebakaran Terdeteksi!
+
